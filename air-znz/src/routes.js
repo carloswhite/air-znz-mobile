@@ -11,4 +11,4 @@ const routes = createAppContainer(
     })
 );
 
-export default Routes;
+export default routes;
