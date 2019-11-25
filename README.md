@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.ibb.co/phTfcpz/logo.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn0.iconfinder.com/data/icons/picons-social/57/68-airbnb-2-512.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Best Coffee Shops in the Orlando Metro Area</h3>
