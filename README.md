@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Know Your Next Destination In Terms of Coffee if You Live in Central Florida.
+<p align="center"> AirZnz App Built Using Node.js + ReactNative + Expo.
     <br> 
 </p>
 
@@ -25,17 +25,15 @@
 - [Overview](#solutionsoverview)
 
 ## 🧐 About <a name = "about"></a>
-For this project, I decided to test out and see how easy it would be to use MapBox API for maps integration and whatnot. This repository contains non-sensitive code from one of my pet projects titled "best-coffeeshops-orlando-metro". 
+This is my attempt at creating a functional full-stack JavaScript app using React Native for the frontend, Node.js for the backend, and Expo's mobile-oriented platform. If you'd like to check out the backend portion of this project in more details, please check out  repo. <a href="https://github.com/carloswhite/lodging-booking-app">this</a>
 
 ## 🎈 Usage <a name="usage"></a>
-Feel free to use (or tweak it) for your own use. You will only need to copy and paste it onto a newly created Flutter project (don't forget to fork it!). Pro-tip: edit the <b>pubsepc.yaml</b> file on your project so that is affects the images and/or additional files you might want to implement on your own project.
+Feel free to use (or tweak it) for your own use.
 
 ## ✍️  Authors <a name = "authors"></a>
 - [@carloswhite](https://github.com/carloswhite) - Idea & added work
 
 ## 📈 Overview
-<a href="https://i.imgur.com/cIlZxGa.png"><img src="https://i.imgur.com/cIlZxGa.png" title="source: imgur.com" /></a>
+Images + Videos + GIFs comming soon
 
 
-# air-znz-mobile
-Built using Node.js + ReactNative + Expo
