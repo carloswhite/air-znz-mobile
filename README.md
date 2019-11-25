@@ -25,7 +25,7 @@
 - [Overview](#solutionsoverview)
 
 ## 🧐 About <a name = "about"></a>
-This is my attempt at creating a functional full-stack JavaScript app using React Native for the frontend, Node.js for the backend, and Expo's mobile-oriented platform. If you'd like to check out the backend portion of this project in more details, please check out  repo. <a href="https://github.com/carloswhite/lodging-booking-app">this</a>
+This is my attempt at creating a functional full-stack JavaScript app using React Native for the frontend, Node.js for the backend, and Expo's mobile-oriented platform. If you'd like to check out the backend portion of this project in more details, please check out <a href="https://github.com/carloswhite/lodging-booking-app">this</a> repo. 
 
 ## 🎈 Usage <a name="usage"></a>
 Feel free to use (or tweak it) for your own use.
