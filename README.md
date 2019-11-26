@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://cdn0.iconfinder.com/data/icons/picons-social/57/68-airbnb-2-512.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Best Coffee Shops in the Orlando Metro Area</h3>
+<h3 align="center">"AirZnz" Full-Stack JavaScript App</h3>
 
 <div align="center">
 
