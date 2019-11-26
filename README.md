@@ -39,5 +39,9 @@ Feel free to use (or tweak it) for your own use.
 
 ![LoginScreen Demo](airznz-login.gif)
 
+-> Used two different keyboard types for email and password fields so that user won't have an '@' sign while typing in password
+
+-> Added special effect when pressing login button (touchableOpacity)
+
 
 
